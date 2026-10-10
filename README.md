@@ -4,18 +4,10 @@
 
 Hi! I'm DY, a student in the Software Maintenance and Evolution course.
 
-I like building things people actually use, and making them look good while I'm at it. I've done a bit of everything: web, mobile, games, and pitch deck.
+I like building things people actually use, and making them look good while I'm at it.
 
 - **Fun fact**: I built a desktop pet of my doggy that types along with me whenever I type.
 - **Course expectations**: To learn how to keep software clean and reliable as it grows, not just get it working once.
-<br>
-
-## 🛠️ What I've been building
-
-- **Chemical inventory system** (FYP): web app for tracking lab chemicals and safety, with role-based access. Next.js, Tailwind, Supabase.
-- **Recycling gamification platform** (in progress): web app that turns school recycling into a game, with points and class leaderboards. React + TypeScript (Vite), NestJS + TypeORM API.
-- **Savora**: financial planning web platform with goal-based planning and investment tools. I built the AI Financial Assistant chatbot and the login/registration system. Express.js + MongoDB.
-- **typing-dudu**: Electron desktop pet, Bongo Cat style, starring my doggy.
 <br>
 
 ## 🧰 Tech I use
@@ -49,11 +41,6 @@ I like building things people actually use, and making them look good while I'm 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Desktop & Mobile**
-
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Tools & Design**
 
